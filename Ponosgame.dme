@@ -1,0 +1,28 @@
+// DM Environment file for Ponosgame.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "icons"
+#define FILE_DIR "icons/mobs"
+#define FILE_DIR "icons/turfs"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "Ponosgame.dm"
+#include "code\emotes\login.dm"
+#include "code\emotes\say.dm"
+#include "code\mobs\player.dm"
+#include "code\turfs\floor.dm"
+#include "code\turfs\spawn.dm"
+#include "code\turfs\wall.dm"
+#include "maps\test\test.dmm"
+// END_INCLUDE
+

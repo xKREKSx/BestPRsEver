@@ -1,0 +1,14 @@
+// BEGIN_INTERNALS
+/*
+MAP_PLANE_MASTERS: 
+MAP_ZOOM: 2.000
+LAST_COMPILE_TIME: 1719711490
+DIR: code code\emotes code\mobs code\turfs icons icons\mobs icons\turfs maps maps\test 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 515.1640
+WINDOW: Ponosgame.dm;code\emotes\say.dm;code\emotes\login.dm;maps\test\test.dmm;code\mobs\player.dm
+FILE: code\mobs\player.dm
+MAP_INSTANCE_MODE: copy
+*/
+// END_INTERNALS
